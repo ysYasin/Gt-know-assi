@@ -1,0 +1,76 @@
+.blog-thumb-container {
+    border-bottom: 1px solid #c6c0c087;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
+
+.blog-thumb-container:last-child {
+    border: none;
+}
+
+.blog-thumb {
+    width: 100%;
+    height: 450px;
+}
+
+.blog-thumb img {
+    width: 100%;
+    height: 100%;
+}
+
+.bloger-info-and-bookMark {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 0.05rem 1rem 0.05rem;
+}
+
+.profile-and-time {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.profile-and-time img {
+    width: 60px;
+    height: 60px;
+}
+
+.book-mark {
+    display: flex;
+    align-items: center;
+    gap: 0.05rem;
+}
+
+.book-mark button {
+    background: none;
+    outline: none;
+    border: none;
+}
+
+.book-mark button:focus {
+    background: none;
+    outline: none;
+    border: none;
+}
+
+.blog-title {
+    font-size: 1rem;
+    margin: 1rem 0 0.5rem;
+}
+
+.mark:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:688px) {
+    .blog-thumb {
+        width: 100%;
+        height: 350px;
+    }
+
+    .blog-title {
+        font-size: 0.5rem;
+    }
+}

@@ -1,0 +1,58 @@
+[
+    {
+      "id": "650e32e0744f58fae8a3aa12",
+      "imgTitle": "../src/assets/1.jpg",
+      "img": "../src/assets/boy1.png",
+      "readingTime": 20,
+      "title":"React Programming Blog: Insights and Tips",
+      "name": "Alford Carney",
+      "about": "Id sint nulla exercitation esse sint consequat sint veniam commodo. Consequat nulla consectetur ex velit. Sit laborum nulla quis dolore nostrud duis est. Ea aliquip consectetur et quis exercitation cillum ad excepteur eu. Aute magna tempor reprehenderit ad.\r\n",
+      "releaseDate":"Fri Aug 05 2022",
+      "tags": [
+        "veniam",
+        "cupidatat"
+      ]
+    },
+    {
+      "id": "650e32e07864b3261cead37b",
+      "imgTitle": "../src/assets/2.png",
+      "img": "../src/assets/boy2.png",
+      "readingTime": 18,
+      "title":"Mastering React Hook Essentials: An In-Depth Exploration",
+      "name": "Tammie Curtis",
+      "about": "Dolor sit do laboris cillum aliqua sunt dolor officia id id commodo consectetur commodo. Qui aute cupidatat eu Lorem pariatur non minim cupidatat adipisicing laborum qui laborum nulla ex. Irure irure consectetur magna sint aliquip enim consequat nulla ad veniam in eu dolore. Excepteur occaecat laborum adipisicing laboris eu. Aliqua minim sint ex Lorem sit tempor Lorem pariatur voluptate.\r\n",
+      "releaseDate":"Mon Jun 29 2020",
+      "tags": [
+        "proident",
+        "est"
+      ]
+    },
+    {
+      "id": "650e32e0e75610eba12c5318",
+      "imgTitle": "../src/assets/3.png",
+      "img": "../src/assets/girl1.jpg",
+      "readingTime": 7,
+      "title":"Efficiently Adding Event Listeners in React",
+      "name": "Delgado Solis",
+      "about": "Velit nulla proident ad duis cupidatat quis. Dolore quis deserunt aute ipsum eu laborum incididunt do ex proident officia. Consectetur minim nulla labore irure officia incididunt cupidatat nostrud aliqua aliqua. Dolore magna elit adipisicing ullamco. Cupidatat minim officia nisi culpa sit sit laboris irure ea pariatur officia laborum proident quis.\r\n",
+      "releaseDate":"Sun Sep 15 2019",
+      "tags": [
+        "proident",
+        "officia"
+      ]
+    },
+    {
+      "id": "650e32e03796102fd248a72c",
+      "imgTitle": "../src/assets/4.jpg",
+      "img": "../src/assets/girl2.jpg",
+      "readingTime": 15,
+      "title":"Enhancing Component Performance with React's useEffect Hook",
+      "name": "Mason Dennis",
+      "about": "Adipisicing aliquip cupidatat ea fugiat excepteur eu. Sint laborum irure fugiat aute ut nulla cupidatat enim eu magna dolore amet officia fugiat. Ad laborum fugiat excepteur ullamco sunt.\r\n",
+      "releaseDate":"Sun May 07 2017",
+      "tags": [
+        "aute",
+        "amet"
+      ]
+    }
+  ]
